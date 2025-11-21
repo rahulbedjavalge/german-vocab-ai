@@ -10,10 +10,12 @@ import os
 st.set_page_config(page_title="German Vocab AI", layout="centered")
 
 # -------------------------------------------------------------------
-# OPENROUTER API KEY
+# OPENROUTER API KEY + MODEL
 # -------------------------------------------------------------------
-# Read API key from environment. Do NOT hard-code keys in source.
+# Read API key and model from environment. Do NOT hard-code keys in source.
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
+# Allow overriding the model via env var; default to the requested model
+OPENROUTER_MODEL = os.getenv("OPENROUTER_MODEL", "x-ai/grok-4.1-fast:free")
 
 # -------------------------------------------------------------------
 # LOAD LOCAL VOCAB FILE
@@ -62,7 +64,7 @@ Rules:
 """
 
     payload = {
-        "model": "meta-llama-3.1-8b-instruct",
+        "model": OPENROUTER_MODEL,
         "messages": [{"role": "user", "content": prompt}]
     }
 
