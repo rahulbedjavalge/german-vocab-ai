@@ -1,0 +1,764 @@
+[
+  {
+    "word": "gehen",
+    "type": "verb",
+    "meaning": "to go",
+    "example": "Ich gehe zur Arbeit."
+  },
+  {
+    "word": "kommen",
+    "type": "verb",
+    "meaning": "to come",
+    "example": "Er kommt später."
+  },
+  {
+    "word": "machen",
+    "type": "verb",
+    "meaning": "to do or to make",
+    "example": "Was machst du heute?"
+  },
+  {
+    "word": "sprechen",
+    "type": "verb",
+    "meaning": "to speak",
+    "example": "Ich spreche Deutsch."
+  },
+  {
+    "word": "lesen",
+    "type": "verb",
+    "meaning": "to read",
+    "example": "Ich lese ein Buch."
+  },
+  {
+    "word": "schreiben",
+    "type": "verb",
+    "meaning": "to write",
+    "example": "Er schreibt einen Brief."
+  },
+  {
+    "word": "sehen",
+    "type": "verb",
+    "meaning": "to see",
+    "example": "Ich sehe den Zug."
+  },
+  {
+    "word": "hören",
+    "type": "verb",
+    "meaning": "to hear",
+    "example": "Ich höre Musik."
+  },
+  {
+    "word": "essen",
+    "type": "verb",
+    "meaning": "to eat",
+    "example": "Wir essen Pizza."
+  },
+  {
+    "word": "trinken",
+    "type": "verb",
+    "meaning": "to drink",
+    "example": "Er trinkt Wasser."
+  },
+  {
+    "word": "schlafen",
+    "type": "verb",
+    "meaning": "to sleep",
+    "example": "Ich schlafe gut."
+  },
+  {
+    "word": "laufen",
+    "type": "verb",
+    "meaning": "to run",
+    "example": "Ich laufe im Park."
+  },
+  {
+    "word": "fahren",
+    "type": "verb",
+    "meaning": "to drive or to ride",
+    "example": "Ich fahre mit dem Bus."
+  },
+  {
+    "word": "bleiben",
+    "type": "verb",
+    "meaning": "to stay",
+    "example": "Ich bleibe zu Hause."
+  },
+  {
+    "word": "wohnen",
+    "type": "verb",
+    "meaning": "to live",
+    "example": "Ich wohne in Berlin."
+  },
+  {
+    "word": "arbeiten",
+    "type": "verb",
+    "meaning": "to work",
+    "example": "Ich arbeite bei einer Firma."
+  },
+  {
+    "word": "lernen",
+    "type": "verb",
+    "meaning": "to learn",
+    "example": "Ich lerne Deutsch."
+  },
+  {
+    "word": "studieren",
+    "type": "verb",
+    "meaning": "to study at a university",
+    "example": "Ich studiere Informatik."
+  },
+  {
+    "word": "verstehen",
+    "type": "verb",
+    "meaning": "to understand",
+    "example": "Ich verstehe dich."
+  },
+  {
+    "word": "fragen",
+    "type": "verb",
+    "meaning": "to ask",
+    "example": "Ich frage den Lehrer."
+  },
+  {
+    "word": "antworten",
+    "type": "verb",
+    "meaning": "to answer",
+    "example": "Er antwortet schnell."
+  },
+  {
+    "word": "kaufen",
+    "type": "verb",
+    "meaning": "to buy",
+    "example": "Ich kaufe Brot."
+  },
+  {
+    "word": "verkaufen",
+    "type": "verb",
+    "meaning": "to sell",
+    "example": "Er verkauft sein Auto."
+  },
+  {
+    "word": "spielen",
+    "type": "verb",
+    "meaning": "to play",
+    "example": "Die Kinder spielen draußen."
+  },
+  {
+    "word": "suchen",
+    "type": "verb",
+    "meaning": "to search or to look for",
+    "example": "Ich suche meine Schlüssel."
+  },
+  {
+    "word": "finden",
+    "type": "verb",
+    "meaning": "to find",
+    "example": "Ich finde das gut."
+  },
+  {
+    "word": "bringen",
+    "type": "verb",
+    "meaning": "to bring",
+    "example": "Er bringt das Essen."
+  },
+  {
+    "word": "nehmen",
+    "type": "verb",
+    "meaning": "to take",
+    "example": "Ich nehme ein Taxi."
+  },
+  {
+    "word": "geben",
+    "type": "verb",
+    "meaning": "to give",
+    "example": "Er gibt mir das Buch."
+  },
+  {
+    "word": "helfen",
+    "type": "verb",
+    "meaning": "to help",
+    "example": "Kannst du mir helfen?"
+  },
+  {
+    "word": "öffnen",
+    "type": "verb",
+    "meaning": "to open",
+    "example": "Ich öffne die Tür."
+  },
+  {
+    "word": "schließen",
+    "type": "verb",
+    "meaning": "to close",
+    "example": "Bitte schließe das Fenster."
+  },
+  {
+    "word": "beginnen",
+    "type": "verb",
+    "meaning": "to begin",
+    "example": "Der Kurs beginnt um neun."
+  },
+  {
+    "word": "enden",
+    "type": "verb",
+    "meaning": "to end",
+    "example": "Der Film endet um zehn."
+  },
+  {
+    "word": "warten",
+    "type": "verb",
+    "meaning": "to wait",
+    "example": "Ich warte auf den Bus."
+  },
+  {
+    "word": "reisen",
+    "type": "verb",
+    "meaning": "to travel",
+    "example": "Ich reise nach Deutschland."
+  },
+  {
+    "word": "kochen",
+    "type": "verb",
+    "meaning": "to cook",
+    "example": "Ich koche heute Nudeln."
+  },
+  {
+    "word": "putzen",
+    "type": "verb",
+    "meaning": "to clean",
+    "example": "Ich putze die Wohnung."
+  },
+  {
+    "word": "stehen",
+    "type": "verb",
+    "meaning": "to stand",
+    "example": "Ich stehe an der Haltestelle."
+  },
+  {
+    "word": "sitzen",
+    "type": "verb",
+    "meaning": "to sit",
+    "example": "Ich sitze auf dem Stuhl."
+  },
+  {
+    "word": "bringen",
+    "type": "verb",
+    "meaning": "to bring",
+    "example": "Kannst du mir Wasser bringen?"
+  },
+  {
+    "word": "leben",
+    "type": "verb",
+    "meaning": "to live",
+    "example": "Ich lebe in Deutschland."
+  },
+  {
+    "word": "lieben",
+    "type": "verb",
+    "meaning": "to love",
+    "example": "Ich liebe meine Familie."
+  },
+  {
+    "word": "mögen",
+    "type": "verb",
+    "meaning": "to like",
+    "example": "Ich mag Schokolade."
+  },
+  {
+    "word": "möchten",
+    "type": "verb",
+    "meaning": "would like to",
+    "example": "Ich möchte einen Kaffee."
+  },
+  {
+    "word": "müssen",
+    "type": "verb",
+    "meaning": "must or have to",
+    "example": "Ich muss lernen."
+  },
+  {
+    "word": "können",
+    "type": "verb",
+    "meaning": "can or be able to",
+    "example": "Ich kann Deutsch sprechen."
+  },
+  {
+    "word": "dürfen",
+    "type": "verb",
+    "meaning": "may or be allowed to",
+    "example": "Du darfst hier rauchen."
+  },
+  {
+    "word": "sollen",
+    "type": "verb",
+    "meaning": "should",
+    "example": "Du sollst mehr schlafen."
+  },
+  {
+    "word": "wollen",
+    "type": "verb",
+    "meaning": "to want",
+    "example": "Ich will etwas essen."
+  },
+  {
+    "word": "kennen",
+    "type": "verb",
+    "meaning": "to know someone",
+    "example": "Ich kenne ihn gut."
+  },
+  {
+    "word": "wissen",
+    "type": "verb",
+    "meaning": "to know a fact",
+    "example": "Ich weiß die Antwort."
+  },
+  {
+    "word": "stehen",
+    "type": "verb",
+    "meaning": "to stand",
+    "example": "Das Auto steht vor dem Haus."
+  },
+  {
+    "word": "liegen",
+    "type": "verb",
+    "meaning": "to lie down",
+    "example": "Das Buch liegt auf dem Tisch."
+  },
+  {
+    "word": "waschen",
+    "type": "verb",
+    "meaning": "to wash",
+    "example": "Ich wasche meine Hände."
+  },
+  {
+    "word": "schwimmen",
+    "type": "verb",
+    "meaning": "to swim",
+    "example": "Ich schwimme im See."
+  },
+  {
+    "word": "tanzen",
+    "type": "verb",
+    "meaning": "to dance",
+    "example": "Wir tanzen gern."
+  },
+  {
+    "word": "zeichnen",
+    "type": "verb",
+    "meaning": "to draw",
+    "example": "Das Kind zeichnet ein Haus."
+  },
+  {
+    "word": "bauen",
+    "type": "verb",
+    "meaning": "to build",
+    "example": "Sie bauen ein neues Haus."
+  },
+  {
+    "word": "schicken",
+    "type": "verb",
+    "meaning": "to send",
+    "example": "Ich schicke dir eine Nachricht."
+  },
+  {
+    "word": "bekommen",
+    "type": "verb",
+    "meaning": "to receive",
+    "example": "Ich bekomme ein Geschenk."
+  },
+  {
+    "word": "bezahlen",
+    "type": "verb",
+    "meaning": "to pay",
+    "example": "Ich bezahle die Rechnung."
+  },
+  {
+    "word": "lernen",
+    "type": "verb",
+    "meaning": "to learn",
+    "example": "Ich lerne jeden Tag Deutsch."
+  },
+  {
+    "word": "vergessen",
+    "type": "verb",
+    "meaning": "to forget",
+    "example": "Ich vergesse meinen Schlüssel oft."
+  },
+  {
+    "word": "zeigen",
+    "type": "verb",
+    "meaning": "to show",
+    "example": "Kannst du mir den Weg zeigen?"
+  },
+  {
+    "word": "holen",
+    "type": "verb",
+    "meaning": "to fetch or to get",
+    "example": "Ich hole mir Kaffee."
+  },
+  {
+    "word": "gefallen",
+    "type": "verb",
+    "meaning": "to like or to please",
+    "example": "Das Bild gefällt mir."
+  },
+  {
+    "word": "schmecken",
+    "type": "verb",
+    "meaning": "to taste",
+    "example": "Die Suppe schmeckt gut."
+  },
+  {
+    "word": "brauchen",
+    "type": "verb",
+    "meaning": "to need",
+    "example": "Ich brauche Hilfe."
+  },
+  {
+    "word": "öffnen",
+    "type": "verb",
+    "meaning": "to open",
+    "example": "Kannst du die Tür öffnen?"
+  },
+  {
+    "word": "schließen",
+    "type": "verb",
+    "meaning": "to close",
+    "example": "Bitte schließe das Fenster."
+  },
+  {
+    "word": "reisen",
+    "type": "verb",
+    "meaning": "to travel",
+    "example": "Ich reise gern."
+  },
+  {
+    "word": "zeigen",
+    "type": "verb",
+    "meaning": "to show",
+    "example": "Ich zeige dir mein Zimmer."
+  },
+  {
+    "word": "laufen",
+    "type": "verb",
+    "meaning": "to walk or to run",
+    "example": "Wir laufen zur Haltestelle."
+  },
+  {
+    "word": "bleiben",
+    "type": "verb",
+    "meaning": "to stay",
+    "example": "Ich bleibe zu Hause."
+  },
+  {
+    "word": "bringen",
+    "type": "verb",
+    "meaning": "to bring",
+    "example": "Er bringt das Paket."
+  },
+  {
+    "word": "denken",
+    "type": "verb",
+    "meaning": "to think",
+    "example": "Ich denke oft an meine Familie."
+  },
+  {
+    "word": "fühlen",
+    "type": "verb",
+    "meaning": "to feel",
+    "example": "Ich fühle mich gut."
+  },
+  {
+    "word": "beginnen",
+    "type": "verb",
+    "meaning": "to start",
+    "example": "Der Unterricht beginnt um acht."
+  },
+  {
+    "word": "arbeiten",
+    "type": "verb",
+    "meaning": "to work",
+    "example": "Ich arbeite im Büro."
+  },
+  {
+    "word": "regen",
+    "type": "verb",
+    "meaning": "to rain",
+    "example": "Es regnet heute stark."
+  },
+  {
+    "word": "schneien",
+    "type": "verb",
+    "meaning": "to snow",
+    "example": "Morgen schneit es."
+  },
+  {
+    "word": "scheinen",
+    "type": "verb",
+    "meaning": "to shine",
+    "example": "Die Sonne scheint."
+  },
+  {
+    "word": "kosten",
+    "type": "verb",
+    "meaning": "to cost",
+    "example": "Wie viel kostet das Brot?"
+  },
+  {
+    "word": "reichen",
+    "type": "verb",
+    "meaning": "to hand or pass",
+    "example": "Kannst du mir das Salz reichen?"
+  },
+  {
+    "word": "passen",
+    "type": "verb",
+    "meaning": "to fit or to suit",
+    "example": "Der Pullover passt mir nicht."
+  },
+  {
+    "word": "gewinnen",
+    "type": "verb",
+    "meaning": "to win",
+    "example": "Wir gewinnen das Spiel."
+  },
+  {
+    "word": "das Haus",
+    "type": "noun",
+    "meaning": "house",
+    "example": "Das Haus ist alt."
+  },
+  {
+    "word": "die Wohnung",
+    "type": "noun",
+    "meaning": "apartment",
+    "example": "Meine Wohnung ist klein."
+  },
+  {
+    "word": "das Zimmer",
+    "type": "noun",
+    "meaning": "room",
+    "example": "Mein Zimmer ist sauber."
+  },
+  {
+    "word": "die Küche",
+    "type": "noun",
+    "meaning": "kitchen",
+    "example": "Die Küche ist modern."
+  },
+  {
+    "word": "das Bad",
+    "type": "noun",
+    "meaning": "bathroom",
+    "example": "Das Bad ist neben der Küche."
+  },
+  {
+    "word": "der Tisch",
+    "type": "noun",
+    "meaning": "table",
+    "example": "Der Tisch ist rund."
+  },
+  {
+    "word": "der Stuhl",
+    "type": "noun",
+    "meaning": "chair",
+    "example": "Der Stuhl ist bequem."
+  },
+  {
+    "word": "das Bett",
+    "type": "noun",
+    "meaning": "bed",
+    "example": "Mein Bett ist weich."
+  },
+  {
+    "word": "das Fenster",
+    "type": "noun",
+    "meaning": "window",
+    "example": "Das Fenster ist offen."
+  },
+  {
+    "word": "die Tür",
+    "type": "noun",
+    "meaning": "door",
+    "example": "Die Tür ist geschlossen."
+  },
+  {
+    "word": "die Lampe",
+    "type": "noun",
+    "meaning": "lamp",
+    "example": "Die Lampe ist hell."
+  },
+  {
+    "word": "das Auto",
+    "type": "noun",
+    "meaning": "car",
+    "example": "Mein Auto ist schnell."
+  },
+  {
+    "word": "der Bus",
+    "type": "noun",
+    "meaning": "bus",
+    "example": "Der Bus kommt spät."
+  },
+  {
+    "word": "die Bahn",
+    "type": "noun",
+    "meaning": "train",
+    "example": "Die Bahn fährt um neun."
+  },
+  {
+    "word": "der Zug",
+    "type": "noun",
+    "meaning": "train",
+    "example": "Der Zug ist voll."
+  },
+  {
+    "word": "die Straße",
+    "type": "noun",
+    "meaning": "street",
+    "example": "Die Straße ist lang."
+  },
+  {
+    "word": "der Park",
+    "type": "noun",
+    "meaning": "park",
+    "example": "Ich gehe im Park spazieren."
+  },
+  {
+    "word": "der Supermarkt",
+    "type": "noun",
+    "meaning": "supermarket",
+    "example": "Der Supermarkt ist billig."
+  },
+  {
+    "word": "das Geschäft",
+    "type": "noun",
+    "meaning": "shop",
+    "example": "Das Geschäft ist heute offen."
+  },
+  {
+    "word": "die Arbeit",
+    "type": "noun",
+    "meaning": "work or job",
+    "example": "Ich gehe zur Arbeit."
+  },
+  {
+    "word": "die Schule",
+    "type": "noun",
+    "meaning": "school",
+    "example": "Die Schule ist groß."
+  },
+  {
+    "word": "die Uni",
+    "type": "noun",
+    "meaning": "university",
+    "example": "Ich studiere an der Uni."
+  },
+  {
+    "word": "die Stadt",
+    "type": "noun",
+    "meaning": "city",
+    "example": "Die Stadt ist schön."
+  },
+  {
+    "word": "das Dorf",
+    "type": "noun",
+    "meaning": "village",
+    "example": "Das Dorf ist ruhig."
+  },
+  {
+    "word": "das Land",
+    "type": "noun",
+    "meaning": "country",
+    "example": "Deutschland ist ein schönes Land."
+  },
+  {
+    "word": "das Wasser",
+    "type": "noun",
+    "meaning": "water",
+    "example": "Ich trinke Wasser."
+  },
+  {
+    "word": "das Brot",
+    "type": "noun",
+    "meaning": "bread",
+    "example": "Das Brot ist frisch."
+  },
+  {
+    "word": "die Milch",
+    "type": "noun",
+    "meaning": "milk",
+    "example": "Die Milch ist kalt."
+  },
+  {
+    "word": "der Apfel",
+    "type": "noun",
+    "meaning": "apple",
+    "example": "Der Apfel ist rot."
+  },
+  {
+    "word": "die Banane",
+    "type": "noun",
+    "meaning": "banana",
+    "example": "Die Banane ist gelb."
+  },
+  {
+    "word": "das Fleisch",
+    "type": "noun",
+    "meaning": "meat",
+    "example": "Fleisch ist teuer."
+  },
+  {
+    "word": "das Gemüse",
+    "type": "noun",
+    "meaning": "vegetables",
+    "example": "Gemüse ist gesund."
+  },
+  {
+    "word": "der Fisch",
+    "type": "noun",
+    "meaning": "fish",
+    "example": "Ich esse gern Fisch."
+  },
+  {
+    "word": "die Suppe",
+    "type": "noun",
+    "meaning": "soup",
+    "example": "Die Suppe ist heiß."
+  },
+  {
+    "word": "der Kaffee",
+    "type": "noun",
+    "meaning": "coffee",
+    "example": "Der Kaffee ist stark."
+  },
+  {
+    "word": "der Tee",
+    "type": "noun",
+    "meaning": "tea",
+    "example": "Der Tee ist warm."
+  },
+  {
+    "word": "der Freund",
+    "type": "noun",
+    "meaning": "friend",
+    "example": "Mein Freund ist nett."
+  },
+  {
+    "word": "die Freundin",
+    "type": "noun",
+    "meaning": "female friend",
+    "example": "Meine Freundin wohnt in Berlin."
+  },
+  {
+    "word": "die Familie",
+    "type": "noun",
+    "meaning": "family",
+    "example": "Meine Familie wohnt in Indien."
+  },
+  {
+    "word": "das Kind",
+    "type": "noun",
+    "meaning": "child",
+    "example": "Das Kind spielt im Garten."
+  }
+]
